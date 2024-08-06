@@ -6,7 +6,7 @@
 #### and excellence. My immediate goal is to secure a position that offers professional growth opportunities 
 #### and allows me to apply my expertise effectively to achieve significant outcomes.
 
-📫 How to reach me: [mm2588905@gmail.com](mailto:mm2588905@gmail.com)
+📫 How to reach me: [Gmail](mailto:mm2588905@gmail.com)
 
 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/mmohamedmagdy/) | [Kaggle](https://www.kaggle.com/mohamedmagdy203)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/mmohamedmagdy/) [![Kaggle](https://www.kaggle.com/static/images/site-logo.png)](https://www.kaggle.com/mohamedmagdy203)
